@@ -1,13 +1,6 @@
-### README.md
 
-<summary>
-    <font size="6" color="gray"><b> CONVENIO CENACE-UNISON 2023-2025
- </b></font>
-</summary><br>
-<summary>
-    <font size="5" color="orange"><b> Desarrollo de prototipo: metodología con aprendizaje
-profundo para el pronóstico a corto plazo de demanda de
-energía con datos en adelanto./b></font>
+### CONVENIO CENACE-UNISON 2023-2025
+## Desarrollo de prototipo: metodología con aprendizaje profundo para el pronóstico a corto plazo de demanda de energía con datos en adelanto.
 
 
 <br>
@@ -27,6 +20,6 @@ d ) Lo mismo que en c) más el día de la semana en adelanto
 Noviembre ~ 2023
 
 <div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_horizontal.png">
+  <img src="https://github.com/yanhmada/Biociencias_2023/blob/6fea1932a416d32d2df1a5db0691ac795686db06/Mycorrhiza/bottom_cenace.png">
 </div>
 </summary>
