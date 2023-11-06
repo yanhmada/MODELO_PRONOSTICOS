@@ -3,10 +3,9 @@
 ## Repositorio del Reporte Técnico 
 
 <div align="center">  
-<!--![titulo: DESARROLLO DE PROTOTIPO: METODOLOGÍA CON APRENDIZAJE PROFUNDO PARA EL PRONÓSTICO A CORTO PLAZO DE DEMANDA DE ENERGÍA CON DATOS EN ADELANTO]-->
-  <img src="https://github.com/yanhmada/Biociencias_2023/blob/dbb966a406a5c67c797517a251a514ca9fc65ef7/Mycorrhiza/title.png"
+<img src="https://github.com/yanhmada/Biociencias_2023/blob/dbb966a406a5c67c797517a251a514ca9fc65ef7/Mycorrhiza/title.png"
 </div>
-
+<div dir="ltr">
 ## CONVENIO CENACE-UNISON 2023-2025
 
 Este repositorio contiene las libretas relacionadas al desarrollo de prototipo para la metodología para el pronóstico a corto plazo de consumo de energía eléctrica de la zona del Noroeste de México.
@@ -36,7 +35,7 @@ En este análisis se manejan 4 variantes del modelo, las cuales son:
 Análisis de resultados de las 4 variantes del modelo se pueden consultar [aquí](https://2023fmodel.streamlit.app/).
 
 Noviembre ~ 2023
-
+</div>
 <div align="center">
   <img src="https://github.com/yanhmada/Biociencias_2023/blob/6fea1932a416d32d2df1a5db0691ac795686db06/Mycorrhiza/bottom_cenace.png">
 </div>
