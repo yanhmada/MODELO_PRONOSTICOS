@@ -1,10 +1,10 @@
 
 
 ### Repositorio del Reporte Técnico 
-
+<summary>
 
 <div align="center">  
-  <img src="https://github.com/yanhmada/Biociencias_2023/blob/6fea1932a416d32d2df1a5db0691ac795686db06/Mycorrhiza/title.png"
+  <img src="https://github.com/yanhmada/Biociencias_2023/blob/dbb966a406a5c67c797517a251a514ca9fc65ef7/Mycorrhiza/title.png"
 </div>
 </summary>
 
@@ -33,7 +33,7 @@ Análisis de resultados se pueden consultar [aquí](https://2023fmodel.streamlit
 
 Noviembre ~ 2023
 
-<div align="center">
+<summary><div align="center">
   <img src="https://github.com/yanhmada/Biociencias_2023/blob/6fea1932a416d32d2df1a5db0691ac795686db06/Mycorrhiza/bottom_cenace.png">
 </div>
 </summary>
